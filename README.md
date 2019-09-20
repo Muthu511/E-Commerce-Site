@@ -17,5 +17,9 @@ Username: harry@den.com
 Password: code0
 
 
+Username:krishmuthu527@gmail.com
+Password:muthu
+
+
 DATABASE NAME: ecomm
 
