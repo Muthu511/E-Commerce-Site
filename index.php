@@ -30,13 +30,13 @@
 		                </ol>
 		                <div class="carousel-inner">
 		                  <div class="item active">
-		                    <img src="images/1.jpg" alt="First slide">
+		                    <img src="images/4.jpg" alt="First slide">
 		                  </div>
 		                  <div class="item">
-		                    <img src="images/2.jpg" alt="Second slide">
+		                    <img src="images/5.jpg" alt="Second slide">
 		                  </div>
 		                  <div class="item">
-		                    <img src="images/3.jpg" alt="Third slide">
+		                    <img src="images/6.jpg" alt="Third slide">
 		                  </div>
 		                </div>
 		                <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
@@ -46,7 +46,12 @@
 		                  <span class="fa fa-angle-right"></span>
 		                </a>
 		            </div>
-		    
+		            
+	        </div>
+	      </section>
+	     
+	    </div>
+	  </div>
   
   	<?php include 'includes/footer.php'; ?>
 </div>
